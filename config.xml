@@ -7,7 +7,7 @@
 
 <!-- versionCode is optional and Android only -->
  
-	<nameEsempioApp</name>
+	<name>EsempioApp</name>
 
 	<description>
 		App di esempio
